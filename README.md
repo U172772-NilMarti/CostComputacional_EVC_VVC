@@ -1,7 +1,7 @@
 # Estudi dels codificadors EVC i VVC i càlcul del seu rendiment computacional
 Aquest repositori s'ha creat per oferir una eina de codi obert a tothom que vulgui calcular el rendiment i cost computacional del procés de codificació amb còdecs EVC, ffmpeg EVC o VVC.
 
-En aquest repositori trobarem dues carpetes, una per veure els arxius de com he extret les dades i pujades a la base de dades, i l'altra carpeta per veure com he fet l'aplicació per descarregar vídeos de YouTube.
+En aquest repositori trobarem tres carpetes, una per veure els arxius de com he extret les dades i pujades a la base de dades, l'altra carpeta per veure com he fet l'aplicació per descarregar vídeos de YouTube, i una última per poder veure els arxius Excel amb totes les dades obtingudes en el projecte.
 
 Per poder fer l'extracció de les dades de forma còmoda i eficient, he creat un petit menú des de la
 consola de Python, on l'usuari ha de triar entre el tipus de còdec que vol utilitzar. Si l’usuari introdueix
